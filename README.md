@@ -1,5 +1,3 @@
-# 🔗 randomlink
-
 ## Overview
 
 **randomlink** documents domains that point to my server IP addresses, even though they are **not controlled or registered by me**. The goal is to identify and document possible DNS misconfigurations, abuse, or suspicious activity.
