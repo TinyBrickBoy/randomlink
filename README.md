@@ -1,20 +1,19 @@
-
 # 🔗 randomlink
 
-## Überblick
+## Overview
 
-**randomlink** dokumentiert Domains, die auf meine Server-IP-Adressen zeigen, obwohl sie **nicht von mir kontrolliert oder registriert wurden**. Ziel ist es, mögliche DNS-Misskonfigurationen, Missbrauch oder verdächtige Aktivitäten zu erkennen und zu dokumentieren.
+**randomlink** documents domains that point to my server IP addresses, even though they are **not controlled or registered by me**. The goal is to identify and document possible DNS misconfigurations, abuse, or suspicious activity.
 
 ---
 
-## 🖥️ Server & zugehörige Domains
+## 🖥️ Servers & Associated Domains
 
 ### 🧩 FastAsFuck Server UK
 
-* **IP-Adresse**: `51.38.80.177`
-* **Standort**: UK 
+* **IP Address**: `51.38.80.177`
+* **Location**: UK
 
-#### Verlinkte Domains:
+#### Linked Domains:
 
 * `darkduke.de`
 * `cevennes-cafe.com`
@@ -24,16 +23,12 @@
 
 ---
 
+## ❗ Notes
 
-
-## ❗ Hinweise
-
-Die hier gelisteten Domains könnten auf Fehlkonfigurationen oder potenziellen Missbrauch hindeuten. Dieses Repository dient nur zur **Beobachtung und Dokumentation**.
+The domains listed here may indicate misconfigurations or potential misuse. This repository is for **monitoring and documentation purposes only**.
 
 ---
 
-## 📬 Kontakt
+## 📬 Contact
 
-Bei Fragen oder Hinweisen gerne ein Issue eröffnen.
-
----
+If you have questions or information, feel free to open an issue.
