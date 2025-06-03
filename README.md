@@ -1,8 +1,3 @@
-Perfekt! Dann strukturieren wir die README so, dass du ganz einfach mehrere Server mit zugehörigen IPs und Domains einpflegen kannst.
-
-Ich passe die Datei so an, dass sie skalierbar und übersichtlich bleibt:
-
----
 
 # 🔗 randomlink
 
